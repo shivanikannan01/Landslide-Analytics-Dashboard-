@@ -34,6 +34,36 @@ distributions — enabling data-driven understanding of landslide risk worldwide
 - Flag high-impact events for disaster response prioritization
 
 ---
+## Dataset
+
+| Field | Description |
+|---|---|
+| event_id | Unique identifier for each landslide event |
+| date | Date of occurrence |
+| country | Country where the event occurred |
+| region | Global region (Americas, Europe, Asia, etc.) |
+| severity | Event severity — High, Medium, or Low |
+| trigger | Cause — Earthquake, Rainfall, Volcanic, Erosion |
+| casualties | Number of lives lost or affected |
+| damage_usd_k | Estimated damage in USD (thousands) |
+| season | Season of occurrence |
+| high_impact_flag | Binary flag for critical events |
+
+> Dataset: Synthetic dataset modeled on real-world landslide patterns
+
+---
+
+## Key Metrics
+
+| Metric | Value |
+|---|---|
+| Total Casualties | 21,000 |
+| Total Damage | $509.60 Million |
+| Avg Risk Score | 94.37 |
+| High Severity % | 33.40% |
+| Total Events | 500 |
+
+---
 
 ## Tools & Technologies
 
@@ -58,8 +88,25 @@ distributions — enabling data-driven understanding of landslide risk worldwide
 
 
 ---
+## Skills Demonstrated
 
-## 👩‍💻 Author
+- Power BI dashboard design with 8+ chart types
+- DAX measures for custom KPIs and calculated metrics
+- Power Query for data cleaning and transformation
+- Data storytelling and visual hierarchy design
+- Trend analysis and severity-based segmentation
+- Interactive slicer-based filtering and cross-visual exploration
+
+---
+
+## Conclusion
+
+This dashboard transforms raw landslide data into clear, actionable insights 
+across regions, triggers, and severity levels. It demonstrates how Power BI 
+can be applied to real-world disaster analytics — turning complex event data 
+into decisions that matter.
+
+## Author
 
 **Shivani**
 MSc Integrated Data Science
