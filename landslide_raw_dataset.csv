@@ -1,0 +1,501 @@
+event_id,year,month,day,region,country,trigger,severity,casualties,rainfall_mm,slope_angle_deg,damage_usd_k,area_km2,depth_m,duration_hrs,landslide_type,vegetation_type,elevation_m
+1,2022,4,8,Asia,India,Earthquake,Low,0,55.8,64.1,16,29.57,1.1,6,Rockfall,Grassland,4239
+2,2024,4,23,Oceania,Papua New Guinea,Erosion,High,124,49.2,59.5,553,37.96,3.6,28,Mudslide,Bare,1373
+3,2020,2,13,Americas,Peru,Rainfall,Medium,28,190.1,29.5,72,36.51,11.0,25,Debris flow,Shrubland,2501
+4,2024,4,23,Oceania,Australia,Rainfall,High,179,152.9,30.9,1153,42.78,17.4,25,Mudslide,Cropland,3088
+5,2022,4,22,Americas,Peru,Volcanic,Low,5,53.6,48.5,26,26.75,5.3,30,Earthflow,Bare,1899
+6,2021,1,26,Europe,Italy,Volcanic,Medium,9,10.0,65.2,340,43.83,6.6,42,Earthflow,Cropland,3858
+7,2021,4,24,Americas,Peru,Volcanic,Low,4,37.1,47.1,51,11.04,20.0,33,Earthflow,Forest,485
+8,2021,11,14,Asia,Nepal,Rainfall,Medium,13,270.7,40.7,178,48.56,17.3,1,Debris flow,Shrubland,2285
+9,2022,7,6,Europe,Italy,Erosion,High,194,70.7,29.5,4600,38.12,10.4,7,Mudslide,Shrubland,1729
+10,2021,9,25,Americas,Peru,Rainfall,Low,2,236.4,21.2,51,43.95,16.7,20,Rockfall,Forest,2073
+11,2020,12,16,Oceania,Papua New Guinea,Rainfall,Low,1,121.1,41.1,75,8.34,10.8,39,Earthflow,Grassland,1747
+12,2022,8,17,Europe,Switzerland,Erosion,High,73,21.9,33.6,2385,29.46,0.6,46,Debris flow,Grassland,652
+13,2020,9,8,Asia,China,Volcanic,Low,3,21.1,22.3,78,28.85,5.2,31,Earthflow,Grassland,872
+14,2023,6,14,Asia,Japan,Erosion,Medium,28,59.7,52.0,380,5.01,8.4,22,Debris flow,Grassland,1669
+15,2023,3,14,Americas,Mexico,Earthquake,Medium,15,23.7,65.8,276,40.42,17.2,7,Debris flow,Shrubland,220
+16,2021,7,16,Asia,Nepal,Erosion,High,112,72.7,24.1,517,49.27,5.7,30,Mudslide,Cropland,4086
+17,2022,4,2,Americas,Colombia,Rainfall,Low,2,98.3,47.1,69,45.98,10.9,4,Rotational slip,Forest,1622
+18,2020,11,28,Asia,Philippines,Earthquake,Medium,4,75.6,46.3,346,29.77,12.6,27,Rotational slip,Shrubland,4382
+19,2021,11,23,Europe,Austria,Volcanic,High,77,34.7,51.9,2957,22.92,18.6,5,Debris flow,Cropland,919
+20,2021,9,9,Asia,Philippines,Earthquake,Medium,29,10.2,28.4,195,7.97,16.8,46,Mudslide,Shrubland,4433
+21,2024,5,22,Asia,Japan,Rainfall,High,77,116.9,20.9,1773,13.69,12.3,46,Mudslide,Grassland,2262
+22,2022,1,3,Oceania,Fiji,Erosion,Medium,2,5.3,57.4,376,48.99,3.7,29,Rotational slip,Cropland,179
+23,2021,9,2,Asia,India,Volcanic,Low,4,16.1,22.0,44,18.3,18.7,3,Mudslide,Grassland,2144
+24,2024,7,20,Asia,China,Earthquake,High,51,78.2,59.6,3877,1.34,14.9,22,Earthflow,Grassland,2285
+25,2020,7,28,Americas,Chile,Rainfall,Medium,8,143.9,65.5,229,15.33,16.0,15,Rockfall,Forest,1682
+26,2022,2,25,Africa,Nigeria,Volcanic,Medium,21,43.2,52.4,481,26.86,18.8,8,Mudslide,Grassland,2274
+27,2024,7,12,Asia,India,Volcanic,Medium,20,78.8,21.4,345,9.58,1.4,28,Debris flow,Shrubland,1714
+28,2020,11,11,Europe,Switzerland,Volcanic,Low,0,59.0,31.5,44,33.38,6.9,45,Mudslide,Shrubland,1142
+29,2023,11,24,Americas,USA,Earthquake,Low,4,27.6,45.1,5,15.26,4.6,38,Rotational slip,Bare,3909
+30,2021,9,16,Africa,Kenya,Earthquake,Low,0,26.3,51.5,84,16.83,16.5,16,Mudslide,Grassland,1731
+31,2020,4,16,Americas,Brazil,Rainfall,Medium,14,363.6,46.7,417,34.85,10.1,16,Rockfall,Forest,973
+32,2021,12,17,Africa,DR Congo,Erosion,High,152,23.7,61.7,4239,6.75,9.6,34,Rotational slip,Shrubland,2699
+33,2024,7,27,Africa,Uganda,Erosion,High,200,69.6,39.8,2525,42.01,5.9,34,Earthflow,Grassland,2349
+34,2022,4,9,Africa,Ethiopia,Volcanic,Medium,29,45.5,22.6,168,19.21,3.5,14,Debris flow,Cropland,3439
+35,2023,7,2,Europe,Romania,Earthquake,Medium,13,72.9,47.1,406,1.07,17.7,37,Earthflow,Cropland,148
+36,2023,7,18,Europe,Austria,Earthquake,Medium,8,25.5,41.7,249,16.87,13.7,26,Rockfall,Cropland,1145
+37,2020,7,19,Oceania,Solomon Islands,Rainfall,High,174,217.2,62.7,1988,2.61,7.9,14,Earthflow,Bare,2864
+38,2023,5,27,Africa,Nigeria,Rainfall,Medium,1,319.7,17.9,229,11.29,1.8,42,Debris flow,Forest,2125
+39,2024,3,8,Americas,Brazil,Earthquake,Medium,22,13.6,67.1,288,35.0,15.5,11,Rotational slip,Shrubland,1038
+40,2020,10,1,Americas,Peru,Volcanic,Low,5,73.1,35.6,96,10.0,12.0,41,Rockfall,Forest,2570
+41,2024,1,12,Oceania,Papua New Guinea,Erosion,Low,2,10.2,50.6,6,42.49,16.5,7,Earthflow,Bare,3866
+42,2021,12,17,Americas,USA,Volcanic,Low,4,63.1,40.6,98,29.66,6.8,16,Debris flow,Bare,3792
+43,2024,10,22,Americas,USA,Erosion,Medium,1,42.1,32.9,299,10.68,16.1,22,Mudslide,Shrubland,2363
+44,2024,4,3,Oceania,Papua New Guinea,Earthquake,Low,3,41.6,56.7,93,23.86,14.4,29,Debris flow,Forest,2510
+45,2021,5,22,Americas,USA,Volcanic,Medium,18,44.8,38.4,431,27.56,7.4,30,Mudslide,Bare,2159
+46,2021,6,4,Americas,Brazil,Earthquake,High,65,60.4,30.2,4797,29.88,19.6,13,Mudslide,Grassland,3056
+47,2020,12,18,Americas,Peru,Earthquake,Medium,2,78.1,45.4,407,47.21,12.9,32,Debris flow,Forest,2429
+48,2023,6,6,Africa,Kenya,Rainfall,Medium,28,232.9,60.2,255,24.64,11.8,44,Debris flow,Grassland,1322
+49,2020,4,4,Oceania,Australia,Erosion,Low,4,64.3,27.4,71,19.08,18.2,20,Rotational slip,Cropland,2601
+50,2020,10,24,Oceania,Solomon Islands,Rainfall,High,170,147.5,51.3,1786,12.07,11.3,11,Debris flow,Cropland,3790
+51,2022,1,8,Oceania,Fiji,Volcanic,Low,2,57.7,40.0,92,11.75,5.7,41,Rotational slip,Grassland,3582
+52,2021,11,5,Asia,Philippines,Volcanic,High,28,9.5,58.6,2864,22.01,9.6,20,Earthflow,Bare,4199
+53,2023,2,20,Oceania,Fiji,Rainfall,Medium,24,183.1,28.8,96,11.52,13.6,37,Rotational slip,Forest,2307
+54,2021,8,17,Oceania,Papua New Guinea,Erosion,Medium,6,79.8,39.0,466,24.64,2.3,23,Earthflow,Bare,2730
+55,2022,7,23,Asia,Nepal,Erosion,Medium,22,75.9,59.7,331,1.93,2.2,17,Mudslide,Forest,3411
+56,2024,8,14,Oceania,Papua New Guinea,Rainfall,High,142,195.8,56.6,4121,38.02,4.5,36,Rockfall,Bare,3689
+57,2020,11,20,Africa,Ethiopia,Earthquake,Low,1,28.3,15.8,57,4.75,19.8,8,Earthflow,Forest,1361
+58,2022,9,23,Africa,Rwanda,Volcanic,Medium,27,41.2,41.0,283,27.61,8.0,39,Rotational slip,Grassland,671
+59,2022,9,9,Europe,Switzerland,Rainfall,Medium,24,175.5,47.3,387,24.53,3.4,35,Earthflow,Bare,2823
+60,2023,8,11,Oceania,Solomon Islands,Earthquake,Low,1,47.9,27.8,57,2.28,15.0,46,Earthflow,Cropland,1346
+61,2021,9,19,Africa,Ethiopia,Volcanic,High,122,12.5,65.1,625,36.15,8.5,42,Rockfall,Forest,3946
+62,2024,12,13,Europe,Austria,Rainfall,Medium,28,295.8,44.3,212,31.38,17.8,32,Rotational slip,Forest,660
+63,2022,4,24,Americas,Chile,Rainfall,Medium,4,323.3,53.7,101,22.24,14.0,2,Debris flow,Bare,559
+64,2022,7,5,Europe,Austria,Earthquake,Low,3,47.4,58.6,26,8.84,12.4,25,Rotational slip,Grassland,4176
+65,2021,8,21,Oceania,New Zealand,Volcanic,Medium,9,55.0,64.4,288,45.07,13.7,11,Debris flow,Cropland,2930
+66,2023,12,9,Oceania,Australia,Erosion,Medium,7,80.0,61.9,104,11.94,11.7,37,Mudslide,Bare,279
+67,2020,10,28,Africa,Nigeria,Rainfall,Low,5,239.0,64.7,41,38.81,5.0,23,Rockfall,Grassland,2153
+68,2020,11,21,Americas,Chile,Rainfall,Medium,26,221.1,46.9,424,6.66,18.2,21,Earthflow,Grassland,1744
+69,2022,9,17,Americas,Mexico,Volcanic,High,75,73.6,66.9,2917,37.35,7.1,8,Earthflow,Forest,1253
+70,2023,9,12,Americas,Chile,Rainfall,Medium,1,164.6,21.8,238,33.67,13.6,38,Earthflow,Bare,987
+71,2020,10,18,Americas,USA,Volcanic,Low,1,53.6,49.9,64,45.48,6.4,27,Debris flow,Grassland,471
+72,2023,2,4,Asia,China,Earthquake,Low,1,34.1,35.4,100,34.85,11.0,38,Rockfall,Cropland,911
+73,2023,5,2,Africa,Uganda,Volcanic,High,123,38.4,28.0,3471,5.06,13.9,35,Mudslide,Forest,3361
+74,2020,8,3,Europe,Norway,Earthquake,Low,5,49.8,16.2,47,12.25,3.0,37,Rockfall,Forest,1797
+75,2021,6,25,Oceania,New Zealand,Earthquake,Low,0,25.8,69.1,21,27.06,16.1,8,Debris flow,Grassland,221
+76,2024,6,1,Europe,Norway,Earthquake,Medium,2,14.5,38.2,108,37.31,9.8,24,Rotational slip,Shrubland,993
+77,2021,10,2,Africa,Uganda,Volcanic,Medium,21,77.3,18.3,295,42.38,8.8,7,Earthflow,Cropland,702
+78,2024,3,3,Asia,China,Earthquake,Medium,20,52.5,45.2,216,19.11,12.1,19,Earthflow,Shrubland,3624
+79,2020,11,21,Asia,Japan,Earthquake,Medium,15,71.6,37.8,473,22.73,8.6,7,Mudslide,Cropland,2660
+80,2021,11,16,Europe,Austria,Rainfall,High,31,109.8,20.3,3552,40.61,11.3,38,Rotational slip,Shrubland,2800
+81,2022,11,25,Asia,Indonesia,Erosion,Low,0,77.6,48.0,50,5.27,10.4,10,Earthflow,Grassland,986
+82,2022,2,25,Europe,Romania,Volcanic,Low,1,65.5,61.5,84,30.72,13.0,2,Rotational slip,Bare,337
+83,2022,6,12,Americas,Peru,Rainfall,High,46,261.2,37.0,1662,37.07,19.5,6,Rotational slip,Grassland,3181
+84,2022,3,12,Africa,Kenya,Volcanic,Low,2,63.3,46.2,15,44.18,3.5,40,Debris flow,Forest,2329
+85,2023,8,20,Africa,Rwanda,Erosion,Medium,9,21.2,43.2,226,21.55,6.0,44,Rotational slip,Cropland,4416
+86,2021,7,20,Europe,Italy,Rainfall,High,62,176.5,26.6,1624,38.23,6.1,8,Debris flow,Cropland,3627
+87,2023,9,23,Americas,Colombia,Earthquake,Low,4,67.5,59.3,14,19.91,15.0,28,Debris flow,Cropland,737
+88,2023,10,13,Europe,Romania,Erosion,Medium,4,35.4,68.1,137,40.09,12.6,45,Mudslide,Forest,3677
+89,2023,10,13,Asia,Nepal,Rainfall,Medium,28,179.3,33.7,220,38.98,2.0,41,Debris flow,Shrubland,4277
+90,2022,12,27,Americas,Peru,Earthquake,High,36,16.0,25.8,1752,38.03,13.3,12,Earthflow,Cropland,3777
+91,2024,6,28,Oceania,Vanuatu,Volcanic,High,122,10.1,39.3,2980,39.84,12.0,23,Rotational slip,Forest,2642
+92,2020,1,12,Africa,Kenya,Volcanic,High,175,69.8,62.0,4653,19.29,11.8,48,Debris flow,Cropland,1642
+93,2023,9,5,Europe,Romania,Rainfall,Medium,4,339.5,61.1,415,4.31,13.1,3,Rockfall,Cropland,3699
+94,2024,3,12,Oceania,Solomon Islands,Volcanic,Medium,13,35.7,33.6,356,2.71,12.8,22,Debris flow,Bare,874
+95,2023,5,9,Oceania,Vanuatu,Earthquake,Medium,3,48.7,22.8,229,15.58,13.3,43,Earthflow,Grassland,794
+96,2023,11,26,Europe,Romania,Volcanic,High,181,57.7,67.1,4812,4.76,13.6,33,Mudslide,Forest,3070
+97,2021,6,25,Europe,Norway,Erosion,High,67,80.0,23.5,2923,42.24,2.5,35,Rotational slip,Forest,2858
+98,2024,7,5,Oceania,New Zealand,Earthquake,High,187,62.8,59.5,1856,36.09,1.4,24,Rockfall,Cropland,2434
+99,2024,4,10,Africa,DR Congo,Erosion,High,104,55.9,46.4,4109,23.14,6.0,25,Rotational slip,Shrubland,3529
+100,2024,3,28,Americas,Colombia,Volcanic,High,174,41.0,35.4,1340,35.6,10.6,8,Mudslide,Forest,1413
+101,2024,3,27,Europe,Switzerland,Erosion,High,66,66.3,63.7,718,20.8,8.2,24,Rockfall,Cropland,768
+102,2020,6,4,Europe,Norway,Volcanic,High,45,7.9,65.5,4370,34.83,3.2,46,Earthflow,Cropland,143
+103,2022,4,27,Asia,India,Earthquake,Low,5,50.7,38.3,41,11.96,2.9,16,Earthflow,Shrubland,3844
+104,2023,10,18,Asia,India,Rainfall,Low,4,264.0,54.5,42,21.52,12.5,16,Rotational slip,Cropland,1634
+105,2022,2,17,Asia,Philippines,Rainfall,Medium,28,230.4,50.0,241,12.76,0.8,5,Mudslide,Grassland,949
+106,2022,3,2,Oceania,Vanuatu,Volcanic,Low,2,66.0,24.6,92,23.28,14.1,41,Rockfall,Grassland,616
+107,2022,4,2,Africa,Ethiopia,Earthquake,High,90,75.0,43.3,4948,23.72,1.2,42,Rockfall,Bare,3024
+108,2022,5,4,Asia,Japan,Volcanic,Medium,29,35.0,39.2,247,17.02,4.1,45,Earthflow,Bare,4353
+109,2023,2,14,Europe,Italy,Earthquake,Low,2,29.1,19.4,89,14.85,9.2,46,Earthflow,Grassland,3736
+110,2020,12,28,Europe,Switzerland,Volcanic,Low,3,25.6,68.9,12,3.84,12.9,24,Rotational slip,Grassland,355
+111,2023,1,5,Americas,Mexico,Rainfall,High,175,197.2,36.1,765,30.29,13.7,24,Mudslide,Cropland,729
+112,2024,6,13,Oceania,New Zealand,Volcanic,Low,2,23.7,21.2,99,9.38,10.6,36,Debris flow,Bare,2232
+113,2024,5,23,Africa,DR Congo,Erosion,High,41,15.2,19.1,1914,44.94,9.2,6,Mudslide,Bare,631
+114,2022,5,28,Oceania,Solomon Islands,Earthquake,Low,5,74.5,50.1,51,25.49,2.9,13,Rockfall,Grassland,4147
+115,2024,10,12,Asia,China,Erosion,Low,1,50.9,19.7,44,19.97,14.5,31,Rotational slip,Cropland,3454
+116,2021,6,21,Oceania,Papua New Guinea,Rainfall,Medium,15,297.6,33.9,499,41.47,11.3,38,Rockfall,Grassland,3644
+117,2020,9,5,Oceania,Papua New Guinea,Volcanic,High,51,29.2,54.0,3334,47.38,10.6,19,Debris flow,Bare,1708
+118,2021,11,10,Oceania,Australia,Rainfall,Low,5,134.0,66.8,24,8.64,12.7,39,Mudslide,Shrubland,437
+119,2020,11,25,Asia,India,Volcanic,Low,1,62.5,37.9,86,1.61,17.8,35,Mudslide,Bare,4056
+120,2023,5,15,Americas,Chile,Rainfall,Low,0,130.6,37.9,64,10.28,12.3,21,Mudslide,Bare,3366
+121,2024,9,4,Americas,Peru,Volcanic,High,129,14.2,39.7,1654,4.93,6.2,25,Rotational slip,Cropland,2133
+122,2024,12,11,Americas,Peru,Earthquake,High,137,79.7,40.7,3027,24.92,2.3,26,Rotational slip,Cropland,2072
+123,2022,1,2,Americas,Mexico,Volcanic,Medium,20,71.2,51.0,290,14.36,0.7,7,Earthflow,Grassland,2266
+124,2022,1,13,Europe,Switzerland,Rainfall,Low,4,142.3,45.4,14,19.38,9.3,36,Mudslide,Shrubland,1073
+125,2023,6,26,Americas,Brazil,Volcanic,Low,2,61.6,25.9,70,20.13,1.3,3,Rockfall,Bare,3980
+126,2021,10,17,Oceania,Fiji,Earthquake,Medium,30,51.0,23.9,365,36.99,6.3,22,Rotational slip,Shrubland,4460
+127,2024,5,16,Africa,Rwanda,Rainfall,Medium,11,295.6,68.9,348,15.45,18.0,45,Debris flow,Shrubland,3987
+128,2024,10,8,Europe,Greece,Rainfall,Low,3,134.6,49.6,84,38.75,7.9,44,Rockfall,Forest,1000
+129,2023,6,14,Americas,Brazil,Earthquake,Medium,23,20.3,42.6,363,46.03,17.5,48,Debris flow,Grassland,4349
+130,2022,11,16,Americas,Mexico,Erosion,Medium,6,39.5,44.3,329,17.78,15.6,47,Mudslide,Shrubland,4066
+131,2022,9,10,Americas,Colombia,Earthquake,Medium,25,26.7,26.4,410,24.5,9.9,36,Mudslide,Bare,1098
+132,2024,7,13,Oceania,Vanuatu,Volcanic,High,84,8.2,67.5,1147,17.38,9.1,17,Earthflow,Grassland,1755
+133,2024,12,9,Oceania,Australia,Earthquake,High,167,60.6,28.2,915,33.52,10.9,41,Rockfall,Forest,920
+134,2023,2,22,Africa,Nigeria,Earthquake,High,150,78.3,23.7,4396,23.92,4.4,19,Mudslide,Bare,584
+135,2024,4,18,Asia,Japan,Rainfall,High,116,362.3,24.7,797,49.86,8.2,32,Rockfall,Bare,406
+136,2024,10,4,Asia,China,Volcanic,Medium,15,79.2,44.9,302,44.47,3.1,33,Earthflow,Bare,1679
+137,2021,12,15,Asia,China,Volcanic,Low,1,6.1,33.5,42,28.43,15.3,12,Rotational slip,Cropland,3603
+138,2020,7,22,Oceania,Australia,Rainfall,High,45,232.8,66.5,555,13.11,5.1,18,Mudslide,Bare,193
+139,2022,12,8,Europe,Greece,Rainfall,Low,0,228.9,23.8,92,25.18,18.0,46,Mudslide,Forest,2516
+140,2021,4,5,Europe,Romania,Erosion,High,126,61.1,48.3,3906,35.13,18.3,35,Rockfall,Grassland,770
+141,2024,12,12,Oceania,Fiji,Rainfall,Low,0,99.8,45.1,69,10.19,11.0,11,Mudslide,Shrubland,3719
+142,2021,12,19,Asia,Japan,Erosion,High,140,38.4,18.1,1580,25.71,9.4,4,Rotational slip,Cropland,2624
+143,2022,1,24,Asia,Indonesia,Earthquake,Low,0,8.4,33.9,13,27.1,1.7,5,Earthflow,Forest,2451
+144,2021,11,24,Africa,DR Congo,Erosion,Medium,29,33.7,62.8,243,18.84,13.8,43,Rotational slip,Grassland,2948
+145,2024,7,17,Asia,Nepal,Earthquake,Low,1,67.6,56.6,43,23.2,14.5,28,Rotational slip,Cropland,1981
+146,2022,3,9,Americas,USA,Earthquake,Low,0,7.4,51.3,83,38.33,17.7,2,Rockfall,Grassland,651
+147,2020,8,20,Asia,Philippines,Rainfall,High,199,94.2,39.1,4921,10.94,17.3,4,Rockfall,Shrubland,2469
+148,2024,6,19,Americas,Chile,Volcanic,High,87,70.7,69.2,4770,11.13,6.4,4,Rotational slip,Shrubland,1534
+149,2023,1,12,Africa,Uganda,Erosion,Low,2,57.2,37.5,43,18.89,15.2,31,Rockfall,Grassland,2563
+150,2020,9,14,Americas,USA,Erosion,Low,4,15.1,28.4,31,16.58,2.0,29,Mudslide,Forest,4487
+151,2022,7,22,Americas,Brazil,Rainfall,High,58,337.5,47.3,2277,24.02,17.5,22,Mudslide,Forest,1835
+152,2020,12,25,Americas,Chile,Erosion,High,188,50.3,26.2,2460,27.65,15.6,25,Earthflow,Shrubland,3043
+153,2022,9,16,Europe,Austria,Erosion,High,194,40.2,61.2,2164,18.6,8.6,37,Rockfall,Grassland,232
+154,2024,10,24,Europe,Romania,Erosion,Medium,5,19.7,27.7,341,41.68,10.2,42,Mudslide,Bare,4102
+155,2021,12,26,Africa,Kenya,Volcanic,High,45,59.0,41.9,4941,49.52,19.2,34,Debris flow,Forest,497
+156,2021,11,8,Asia,Indonesia,Rainfall,Low,1,82.9,42.8,52,3.12,12.9,40,Earthflow,Cropland,228
+157,2024,7,1,Asia,Philippines,Rainfall,Low,5,167.9,68.8,7,25.16,14.1,28,Rockfall,Forest,889
+158,2021,4,20,Oceania,New Zealand,Volcanic,Medium,9,64.6,19.3,257,23.0,5.2,45,Rockfall,Bare,760
+159,2023,7,13,Asia,India,Erosion,High,173,5.7,24.4,4594,42.28,13.1,22,Rotational slip,Forest,4426
+160,2021,12,19,Asia,Nepal,Erosion,Medium,2,74.3,52.6,193,44.98,11.5,3,Rockfall,Bare,228
+161,2021,12,27,Americas,Mexico,Erosion,High,86,17.2,28.2,3687,33.88,11.0,25,Rockfall,Forest,4202
+162,2020,7,8,Europe,Italy,Rainfall,Medium,20,326.1,67.5,253,48.45,6.9,41,Mudslide,Cropland,4119
+163,2024,7,14,Americas,Peru,Earthquake,Low,4,54.6,19.7,84,14.84,5.3,5,Debris flow,Bare,1363
+164,2021,12,13,Africa,Rwanda,Volcanic,Medium,4,11.9,66.9,277,18.06,5.8,9,Debris flow,Grassland,3630
+165,2024,9,14,Africa,Uganda,Rainfall,High,32,193.3,20.1,3157,43.2,0.7,27,Earthflow,Forest,2088
+166,2021,11,13,Oceania,Solomon Islands,Earthquake,High,78,27.6,42.1,1018,8.44,5.9,20,Earthflow,Forest,3058
+167,2023,10,20,Europe,Norway,Earthquake,Medium,4,15.2,15.4,252,16.68,12.6,22,Earthflow,Bare,3627
+168,2022,6,20,Oceania,New Zealand,Earthquake,Medium,11,18.3,36.9,213,14.64,14.1,32,Rotational slip,Grassland,2769
+169,2023,6,4,Africa,Nigeria,Earthquake,Low,4,18.5,57.2,8,47.65,9.5,46,Rockfall,Cropland,2486
+170,2023,3,21,Asia,Indonesia,Volcanic,High,74,54.4,54.3,3588,3.79,19.8,31,Rotational slip,Cropland,4477
+171,2023,9,2,Oceania,Vanuatu,Volcanic,Low,4,49.5,65.3,18,38.47,13.3,23,Rockfall,Shrubland,462
+172,2023,6,26,Oceania,Vanuatu,Erosion,High,12,12.4,27.2,4749,27.94,13.9,15,Earthflow,Bare,3304
+173,2024,12,17,Africa,Rwanda,Earthquake,Medium,1,41.2,31.2,93,5.89,18.8,10,Mudslide,Bare,2910
+174,2024,8,12,Africa,DR Congo,Erosion,High,122,59.1,39.9,1050,15.08,16.3,8,Debris flow,Bare,995
+175,2021,9,6,Americas,Chile,Earthquake,Medium,18,37.0,40.4,458,20.31,4.1,41,Earthflow,Cropland,339
+176,2023,10,14,Oceania,New Zealand,Erosion,High,190,21.1,30.3,1012,28.91,16.1,35,Rockfall,Bare,2770
+177,2020,5,22,Americas,USA,Erosion,Low,5,28.5,36.4,55,29.39,7.3,30,Rotational slip,Grassland,2536
+178,2020,11,5,Oceania,Solomon Islands,Volcanic,High,71,27.9,25.1,1658,25.59,8.7,9,Rotational slip,Cropland,3565
+179,2024,12,21,Americas,USA,Earthquake,Low,1,41.7,22.7,45,42.12,12.6,23,Debris flow,Cropland,1218
+180,2024,9,21,Americas,USA,Erosion,Medium,22,41.9,54.1,277,24.49,2.1,2,Rockfall,Bare,367
+181,2024,5,6,Europe,Norway,Erosion,Low,5,62.9,42.2,70,5.75,2.7,35,Mudslide,Shrubland,440
+182,2021,7,4,Africa,Uganda,Earthquake,Medium,28,79.9,39.7,228,43.12,2.2,8,Rockfall,Grassland,2972
+183,2023,3,20,Oceania,Vanuatu,Earthquake,High,62,65.4,46.4,4860,14.13,11.0,21,Mudslide,Bare,2290
+184,2020,3,25,Oceania,Vanuatu,Erosion,High,80,70.0,22.0,1587,12.56,14.4,16,Earthflow,Cropland,1264
+185,2022,11,14,Oceania,Vanuatu,Erosion,Medium,3,52.5,63.4,97,20.2,15.1,45,Mudslide,Cropland,4098
+186,2020,12,3,Europe,Romania,Erosion,Low,5,57.3,61.8,73,19.95,19.4,14,Earthflow,Bare,2744
+187,2024,10,5,Europe,Austria,Erosion,Medium,29,56.2,17.7,100,31.35,16.8,2,Debris flow,Grassland,3715
+188,2023,4,23,Africa,Ethiopia,Earthquake,Low,2,16.9,66.3,40,4.76,7.5,6,Mudslide,Grassland,524
+189,2022,12,23,Africa,Rwanda,Earthquake,Medium,21,11.8,20.2,159,23.89,3.1,15,Rotational slip,Cropland,176
+190,2022,2,28,Asia,Japan,Erosion,Low,1,40.8,27.6,16,36.57,2.5,21,Mudslide,Bare,1223
+191,2021,2,17,Africa,DR Congo,Rainfall,Low,5,132.5,34.3,32,31.44,3.5,27,Rotational slip,Cropland,1879
+192,2021,2,19,Asia,India,Erosion,Medium,14,28.6,22.7,191,32.27,5.3,39,Rotational slip,Shrubland,2434
+193,2022,4,17,Asia,Japan,Earthquake,Low,3,27.2,18.0,35,24.79,2.7,32,Rotational slip,Forest,4427
+194,2022,3,13,Asia,China,Erosion,Medium,18,56.2,56.9,444,3.74,12.0,1,Mudslide,Grassland,426
+195,2024,5,21,Asia,Indonesia,Erosion,Medium,23,35.2,50.2,325,30.84,5.9,20,Debris flow,Shrubland,1764
+196,2022,7,19,Americas,Mexico,Rainfall,Medium,23,220.0,67.4,172,2.99,2.2,28,Debris flow,Cropland,550
+197,2021,2,1,Europe,Greece,Earthquake,Low,0,17.3,67.4,71,25.91,16.5,17,Rockfall,Bare,1139
+198,2020,1,11,Europe,Greece,Erosion,Medium,17,9.8,54.2,345,31.41,10.2,33,Mudslide,Forest,4192
+199,2022,3,9,Oceania,New Zealand,Rainfall,Low,5,311.3,27.6,70,0.23,17.2,1,Rockfall,Forest,3964
+200,2021,3,28,Europe,Switzerland,Rainfall,Low,5,317.0,38.1,46,12.49,18.4,21,Mudslide,Forest,3154
+201,2020,3,8,Asia,Philippines,Rainfall,Medium,3,360.6,62.6,446,42.26,6.9,36,Earthflow,Forest,3122
+202,2024,5,24,Americas,Peru,Earthquake,Medium,12,49.4,42.1,445,38.82,14.8,35,Rockfall,Grassland,152
+203,2021,9,12,Africa,Ethiopia,Rainfall,Medium,1,322.9,35.7,427,36.39,2.5,34,Rockfall,Cropland,4130
+204,2022,2,2,Asia,Nepal,Earthquake,Low,3,57.6,35.5,100,4.34,2.4,9,Earthflow,Forest,610
+205,2021,4,10,Africa,Rwanda,Volcanic,Medium,30,65.1,53.5,426,16.38,9.3,15,Debris flow,Grassland,1215
+206,2021,2,6,Oceania,Papua New Guinea,Erosion,Medium,11,35.5,44.5,444,10.46,6.5,17,Debris flow,Forest,1391
+207,2024,1,7,Europe,Greece,Volcanic,High,33,58.3,68.3,3746,25.72,13.7,17,Rockfall,Forest,3412
+208,2024,4,4,Africa,Uganda,Erosion,High,45,14.1,18.4,2320,6.62,16.6,24,Debris flow,Shrubland,2220
+209,2020,4,21,Asia,India,Erosion,High,33,72.9,60.6,3216,6.21,18.9,4,Rockfall,Shrubland,3648
+210,2020,7,22,Africa,Kenya,Erosion,High,100,21.1,25.3,2792,22.36,3.4,40,Rotational slip,Shrubland,2113
+211,2023,9,16,Europe,Switzerland,Rainfall,High,81,202.6,38.1,4807,12.53,19.9,35,Debris flow,Cropland,3041
+212,2023,6,19,Africa,Uganda,Volcanic,Medium,9,18.5,32.5,162,1.56,16.3,18,Debris flow,Cropland,4437
+213,2021,3,4,Europe,Romania,Earthquake,Low,1,25.0,59.9,99,2.89,19.9,15,Rotational slip,Cropland,3006
+214,2021,10,11,Americas,Colombia,Volcanic,Low,0,57.8,34.3,77,28.22,11.5,13,Earthflow,Shrubland,2631
+215,2020,2,2,Americas,USA,Earthquake,Low,1,6.5,41.3,47,45.9,4.4,9,Mudslide,Grassland,2750
+216,2021,10,23,Asia,India,Earthquake,High,144,69.6,67.8,3560,35.26,13.4,38,Debris flow,Bare,2572
+217,2021,12,14,Europe,Norway,Erosion,Low,2,18.1,68.3,93,44.49,12.5,23,Rockfall,Shrubland,1536
+218,2022,3,6,Africa,Nigeria,Rainfall,Low,4,205.3,69.7,77,1.72,12.2,40,Rockfall,Shrubland,952
+219,2022,12,3,Africa,DR Congo,Earthquake,Medium,11,17.6,63.7,95,41.1,13.6,47,Mudslide,Cropland,193
+220,2021,12,3,Europe,Norway,Volcanic,Medium,26,13.1,15.1,247,21.97,8.7,11,Earthflow,Cropland,3202
+221,2023,2,27,Europe,Romania,Erosion,Low,5,61.9,27.4,62,3.78,17.0,19,Debris flow,Bare,2239
+222,2022,3,13,Asia,India,Earthquake,Low,0,46.0,64.4,16,16.96,19.7,31,Debris flow,Cropland,1451
+223,2021,1,4,Oceania,Fiji,Volcanic,High,58,35.7,45.5,4924,13.34,6.0,16,Debris flow,Forest,3318
+224,2023,3,2,Oceania,Solomon Islands,Volcanic,High,119,11.6,60.3,4434,10.06,1.0,11,Mudslide,Forest,3979
+225,2023,8,16,Asia,China,Volcanic,High,174,45.8,25.2,3624,18.53,9.2,17,Earthflow,Cropland,2257
+226,2024,1,5,Americas,Peru,Rainfall,High,181,190.0,44.8,2363,27.72,16.9,34,Earthflow,Shrubland,3989
+227,2023,5,3,Oceania,New Zealand,Erosion,Low,0,42.7,64.5,78,33.91,12.6,8,Earthflow,Grassland,1469
+228,2021,1,14,Americas,Colombia,Rainfall,Low,3,144.6,60.2,23,41.72,5.5,47,Debris flow,Forest,3279
+229,2024,6,28,Oceania,Fiji,Volcanic,Low,3,73.8,15.7,94,31.19,10.7,27,Debris flow,Cropland,1325
+230,2024,10,25,Americas,Mexico,Rainfall,High,154,329.5,58.2,4887,44.02,17.6,17,Earthflow,Cropland,3975
+231,2022,7,5,Asia,Nepal,Erosion,High,111,71.7,33.2,2446,2.56,9.8,18,Mudslide,Forest,2867
+232,2022,8,28,Europe,Austria,Rainfall,High,44,176.2,55.9,3128,13.54,8.6,42,Debris flow,Grassland,3718
+233,2023,9,28,Americas,USA,Volcanic,High,141,64.4,18.6,4651,20.23,15.7,34,Rotational slip,Forest,1523
+234,2020,4,2,Americas,Colombia,Erosion,High,102,57.8,30.1,4302,25.31,12.9,8,Debris flow,Grassland,3151
+235,2023,3,28,Africa,Uganda,Erosion,Low,4,31.2,24.0,38,37.47,13.9,19,Debris flow,Cropland,506
+236,2021,4,21,Americas,Mexico,Earthquake,Low,1,25.2,37.5,7,43.25,19.4,44,Debris flow,Cropland,1183
+237,2020,4,9,Americas,Mexico,Volcanic,Low,5,53.2,38.3,53,42.59,9.5,14,Earthflow,Bare,4365
+238,2024,2,1,Oceania,Fiji,Volcanic,Low,5,49.5,30.5,92,5.49,1.7,18,Mudslide,Bare,2239
+239,2021,9,25,Europe,Norway,Earthquake,High,163,35.3,32.6,1646,36.09,13.3,19,Mudslide,Cropland,3414
+240,2020,10,23,Africa,Rwanda,Earthquake,Medium,24,58.5,52.7,376,39.27,18.2,43,Mudslide,Shrubland,2559
+241,2024,3,10,Americas,Chile,Rainfall,Medium,5,317.1,54.9,336,38.17,4.1,44,Mudslide,Forest,1920
+242,2022,7,26,Europe,Norway,Volcanic,Medium,9,48.9,40.5,110,23.58,17.4,38,Rotational slip,Shrubland,683
+243,2024,2,28,Africa,DR Congo,Erosion,Low,2,36.0,62.9,24,6.95,4.4,27,Rotational slip,Cropland,1273
+244,2021,2,16,Europe,Greece,Volcanic,Low,1,28.5,18.2,62,13.75,15.3,11,Rotational slip,Grassland,4110
+245,2024,7,21,Asia,Nepal,Erosion,Medium,14,77.4,36.1,69,26.74,14.7,1,Mudslide,Shrubland,1661
+246,2020,11,24,Asia,Japan,Earthquake,High,187,70.8,32.2,1341,19.24,12.0,11,Debris flow,Forest,2542
+247,2024,10,17,Europe,Switzerland,Volcanic,Medium,29,56.5,22.4,300,18.03,4.2,26,Debris flow,Grassland,1937
+248,2020,10,17,Americas,Colombia,Earthquake,High,103,58.3,58.6,3573,43.84,5.5,35,Rotational slip,Forest,492
+249,2020,1,23,Asia,Japan,Rainfall,Medium,15,201.7,45.1,292,35.12,4.5,44,Debris flow,Bare,3547
+250,2024,5,20,Asia,Japan,Earthquake,Medium,27,72.4,43.1,366,5.97,2.7,7,Earthflow,Grassland,1736
+251,2021,6,23,Europe,Romania,Erosion,Medium,6,8.0,42.3,156,34.44,9.9,16,Debris flow,Forest,829
+252,2023,3,3,Asia,Philippines,Rainfall,Low,5,112.4,29.1,34,22.89,19.6,17,Earthflow,Forest,917
+253,2022,6,26,Americas,Brazil,Volcanic,Medium,24,13.7,61.8,73,0.58,3.2,42,Rockfall,Bare,3028
+254,2022,12,3,Africa,Uganda,Volcanic,Medium,6,13.5,37.0,283,13.66,8.0,31,Earthflow,Grassland,1026
+255,2020,3,4,Americas,Chile,Erosion,Low,3,65.2,52.3,28,30.61,15.7,40,Debris flow,Grassland,4057
+256,2023,8,2,Africa,Ethiopia,Rainfall,Medium,21,180.6,53.8,397,26.29,15.0,47,Rotational slip,Grassland,2871
+257,2024,2,14,Oceania,Solomon Islands,Earthquake,Medium,12,54.8,50.3,126,41.97,11.4,40,Debris flow,Forest,1385
+258,2023,3,3,Oceania,Fiji,Erosion,Medium,8,29.8,30.3,309,11.21,13.0,26,Rockfall,Forest,3860
+259,2023,2,28,Africa,Uganda,Erosion,Medium,11,13.9,42.4,384,0.99,8.4,3,Rotational slip,Shrubland,101
+260,2024,11,10,Asia,Philippines,Earthquake,Low,5,39.2,33.7,11,40.85,17.0,22,Rotational slip,Shrubland,3975
+261,2023,2,4,Europe,Greece,Earthquake,High,97,31.6,49.9,2891,27.43,7.8,7,Debris flow,Grassland,4133
+262,2023,2,9,Americas,Chile,Earthquake,High,40,74.8,36.6,4244,41.25,4.2,22,Debris flow,Cropland,480
+263,2023,8,22,Oceania,Papua New Guinea,Earthquake,Medium,1,44.8,17.7,271,41.96,9.9,33,Rockfall,Shrubland,1522
+264,2023,11,20,Americas,Brazil,Volcanic,Low,3,36.4,48.5,93,38.14,5.8,22,Mudslide,Cropland,1192
+265,2024,12,24,Americas,USA,Volcanic,Low,4,69.6,54.2,75,31.67,4.4,40,Mudslide,Bare,1186
+266,2024,12,21,Americas,Mexico,Volcanic,Low,0,62.1,45.9,79,28.57,13.5,27,Rotational slip,Bare,3560
+267,2020,1,13,Asia,Philippines,Earthquake,High,181,9.2,29.7,1818,49.18,13.8,10,Debris flow,Bare,1771
+268,2022,8,4,Oceania,Papua New Guinea,Earthquake,Low,5,47.1,28.1,94,14.45,13.5,25,Earthflow,Cropland,2661
+269,2020,12,9,Oceania,Papua New Guinea,Earthquake,Low,3,67.2,65.1,95,35.51,7.7,38,Rotational slip,Shrubland,1709
+270,2023,3,22,Americas,Peru,Rainfall,High,54,315.2,21.6,832,21.48,11.4,9,Rockfall,Shrubland,2189
+271,2023,12,5,Asia,China,Rainfall,High,92,271.0,57.6,2967,24.58,11.7,23,Debris flow,Bare,4404
+272,2024,2,26,Americas,Colombia,Earthquake,Medium,18,45.3,20.1,163,44.18,13.4,22,Mudslide,Bare,1889
+273,2023,9,27,Oceania,Solomon Islands,Rainfall,High,181,190.7,28.2,2497,47.95,13.8,21,Earthflow,Forest,3261
+274,2022,1,17,Europe,Romania,Volcanic,Low,4,38.4,17.4,88,9.71,10.5,7,Rockfall,Shrubland,4468
+275,2020,4,22,Asia,Japan,Earthquake,Low,3,67.7,26.3,94,43.94,15.0,28,Debris flow,Grassland,294
+276,2022,1,3,Africa,Rwanda,Rainfall,High,55,334.1,45.7,2364,45.56,8.4,29,Earthflow,Cropland,2691
+277,2020,9,1,Asia,Indonesia,Rainfall,Low,4,94.6,61.7,50,46.41,2.6,44,Mudslide,Shrubland,808
+278,2023,7,27,Europe,Switzerland,Rainfall,Medium,6,250.7,22.5,250,39.86,17.1,19,Rockfall,Bare,3156
+279,2024,3,4,Asia,Philippines,Rainfall,High,156,270.9,44.5,1197,15.3,15.1,47,Mudslide,Grassland,3480
+280,2021,3,8,Oceania,New Zealand,Volcanic,High,39,18.6,59.0,945,42.58,18.7,36,Earthflow,Shrubland,699
+281,2020,5,4,Europe,Greece,Earthquake,Low,4,41.5,33.2,21,33.6,5.1,19,Rotational slip,Forest,1685
+282,2023,6,20,Europe,Switzerland,Volcanic,Low,4,16.4,46.2,45,47.94,3.8,21,Rockfall,Grassland,3672
+283,2021,11,24,Europe,Austria,Volcanic,Medium,15,38.4,57.6,299,27.63,3.9,39,Debris flow,Bare,1246
+284,2022,12,21,Oceania,New Zealand,Rainfall,Low,0,365.5,61.7,85,1.66,11.8,26,Rotational slip,Grassland,400
+285,2024,9,16,Oceania,Australia,Earthquake,Medium,13,21.7,57.5,425,42.87,3.1,33,Rotational slip,Forest,3350
+286,2020,11,8,Europe,Romania,Earthquake,Low,1,38.5,24.9,77,33.0,19.4,48,Earthflow,Bare,431
+287,2021,2,9,Americas,USA,Volcanic,High,20,55.1,43.5,3459,19.47,18.4,3,Debris flow,Bare,945
+288,2022,12,9,Oceania,Vanuatu,Earthquake,Medium,21,33.4,47.3,477,3.98,5.4,15,Rotational slip,Cropland,2990
+289,2023,10,1,Europe,Switzerland,Earthquake,Medium,6,22.2,43.3,193,10.65,4.1,24,Rotational slip,Forest,1986
+290,2020,8,22,Africa,Nigeria,Erosion,Medium,7,49.3,50.6,260,1.22,1.3,37,Rotational slip,Grassland,1203
+291,2024,3,2,Oceania,Papua New Guinea,Earthquake,Medium,30,18.5,67.7,356,48.47,12.9,47,Mudslide,Forest,1874
+292,2023,8,6,Africa,Uganda,Earthquake,Medium,20,15.7,47.0,442,9.18,13.4,17,Rockfall,Bare,3814
+293,2020,4,13,Oceania,Solomon Islands,Erosion,High,37,6.2,43.7,4631,34.25,16.6,39,Debris flow,Grassland,3998
+294,2020,9,17,Oceania,Solomon Islands,Rainfall,High,133,291.0,64.6,4917,41.39,18.0,44,Earthflow,Shrubland,3546
+295,2024,7,8,Europe,Italy,Erosion,Medium,12,49.2,55.8,439,41.88,11.7,28,Rockfall,Bare,4008
+296,2022,10,18,Americas,Brazil,Erosion,Medium,7,5.4,55.9,53,28.94,2.8,1,Earthflow,Grassland,2687
+297,2020,3,14,Africa,Nigeria,Volcanic,Medium,28,45.2,46.1,363,13.85,13.8,14,Earthflow,Shrubland,4052
+298,2024,9,16,Americas,Peru,Volcanic,Medium,19,30.8,53.8,426,6.99,17.3,8,Rockfall,Cropland,1425
+299,2024,7,26,Asia,Nepal,Volcanic,Low,4,57.3,53.9,25,19.52,12.9,6,Rockfall,Cropland,3666
+300,2022,4,12,Asia,India,Rainfall,Low,0,311.8,66.2,56,30.74,10.7,46,Rotational slip,Forest,1535
+301,2020,4,28,Africa,Kenya,Volcanic,High,18,63.8,43.1,2397,30.8,13.6,24,Rockfall,Forest,1389
+302,2023,6,22,Asia,China,Erosion,Medium,19,20.0,15.8,410,3.52,2.3,19,Rotational slip,Shrubland,2951
+303,2021,10,7,Europe,Austria,Erosion,Medium,19,5.3,24.6,309,5.41,1.9,19,Mudslide,Forest,4304
+304,2024,5,23,Europe,Romania,Erosion,Medium,19,41.3,28.4,223,48.07,9.4,30,Rotational slip,Forest,4048
+305,2020,7,21,Asia,China,Earthquake,Low,5,22.2,32.4,50,25.87,0.7,17,Rockfall,Bare,861
+306,2022,2,18,Africa,Rwanda,Earthquake,Medium,11,31.5,64.2,187,9.22,15.1,13,Earthflow,Grassland,2023
+307,2021,4,7,Americas,Peru,Earthquake,Low,2,16.7,20.9,15,33.82,13.4,40,Debris flow,Shrubland,446
+308,2024,6,16,Africa,Nigeria,Volcanic,Medium,6,78.8,65.4,193,19.95,15.1,9,Debris flow,Shrubland,3566
+309,2020,9,12,Africa,Uganda,Erosion,Low,1,39.3,21.6,71,23.06,13.9,1,Rockfall,Cropland,925
+310,2024,5,6,Europe,Austria,Volcanic,High,78,40.4,48.7,3497,9.28,8.8,27,Mudslide,Bare,3381
+311,2021,10,5,Europe,Switzerland,Earthquake,High,194,25.2,28.0,4040,42.83,4.3,48,Rockfall,Cropland,179
+312,2023,3,28,Americas,USA,Volcanic,Medium,10,23.8,62.2,74,19.98,14.0,4,Rockfall,Bare,4003
+313,2022,5,12,Asia,Indonesia,Volcanic,Low,4,74.9,29.2,7,20.65,7.3,44,Rotational slip,Grassland,1529
+314,2022,11,17,Europe,Austria,Erosion,Low,3,71.7,36.0,41,23.24,19.2,11,Mudslide,Cropland,3415
+315,2021,6,8,Asia,India,Volcanic,Medium,21,26.9,29.7,380,19.83,17.8,24,Rotational slip,Shrubland,3788
+316,2021,1,5,Africa,DR Congo,Earthquake,Low,2,75.5,53.5,15,10.61,8.2,7,Debris flow,Cropland,540
+317,2024,2,4,Asia,Indonesia,Volcanic,Low,1,11.3,66.2,54,15.54,5.3,19,Earthflow,Grassland,1175
+318,2020,1,22,Oceania,New Zealand,Volcanic,Medium,28,40.7,68.6,326,46.75,11.2,9,Rotational slip,Grassland,3840
+319,2024,11,21,Oceania,Fiji,Volcanic,Medium,16,45.5,59.3,276,15.46,8.5,10,Mudslide,Forest,100
+320,2022,5,16,Oceania,New Zealand,Rainfall,Low,3,383.0,41.2,6,38.32,16.1,39,Rockfall,Forest,3160
+321,2024,7,13,Americas,USA,Earthquake,High,193,60.3,36.4,3599,11.11,2.0,41,Rockfall,Shrubland,2327
+322,2024,5,14,Europe,Greece,Earthquake,High,56,15.2,21.1,4230,30.92,5.8,40,Earthflow,Grassland,2726
+323,2020,9,1,Asia,Nepal,Earthquake,High,82,25.2,54.3,567,11.72,3.4,32,Rockfall,Bare,3542
+324,2022,8,23,Europe,Switzerland,Rainfall,Medium,3,349.9,67.3,78,13.4,8.2,35,Earthflow,Grassland,1674
+325,2020,2,25,Europe,Switzerland,Earthquake,Medium,25,78.1,28.6,67,10.04,14.8,7,Rotational slip,Grassland,3973
+326,2022,6,6,Africa,Rwanda,Rainfall,Low,4,246.7,28.9,86,15.01,7.5,4,Rockfall,Forest,2033
+327,2020,3,26,Africa,Nigeria,Volcanic,Low,0,34.7,28.4,10,29.1,14.0,45,Rotational slip,Grassland,3142
+328,2021,8,3,Asia,Nepal,Volcanic,Low,0,9.5,50.5,94,26.86,2.6,32,Rockfall,Bare,2945
+329,2021,1,23,Africa,Rwanda,Erosion,Medium,24,15.1,64.4,298,35.36,11.4,35,Earthflow,Grassland,1628
+330,2022,12,15,Oceania,Australia,Volcanic,Low,4,17.0,44.2,62,14.85,5.6,24,Earthflow,Forest,4244
+331,2021,1,20,Africa,Rwanda,Volcanic,Low,1,29.1,18.5,73,40.97,4.2,44,Earthflow,Shrubland,1362
+332,2022,7,21,Oceania,Australia,Volcanic,High,34,44.2,18.7,1563,9.01,1.1,7,Earthflow,Grassland,908
+333,2023,11,16,Asia,Philippines,Volcanic,High,103,21.6,54.5,607,46.52,4.6,32,Debris flow,Cropland,597
+334,2023,6,26,Europe,Romania,Rainfall,Low,2,249.3,55.4,43,3.99,4.7,34,Debris flow,Forest,1992
+335,2021,4,17,Oceania,Fiji,Earthquake,Low,5,76.1,45.7,76,20.82,2.6,41,Rotational slip,Bare,3857
+336,2021,3,18,Africa,Ethiopia,Erosion,Low,2,54.3,44.4,81,22.21,7.4,21,Rotational slip,Bare,3145
+337,2023,12,11,Africa,Rwanda,Earthquake,Low,4,21.0,57.1,100,12.78,19.3,29,Earthflow,Forest,383
+338,2020,9,5,Europe,Romania,Volcanic,High,86,78.8,26.8,3079,1.18,16.5,45,Mudslide,Shrubland,4288
+339,2024,3,4,Oceania,Solomon Islands,Rainfall,Medium,12,130.0,29.6,348,12.57,5.5,20,Debris flow,Shrubland,3375
+340,2020,12,11,Oceania,New Zealand,Erosion,High,134,66.9,52.9,1281,29.8,6.4,47,Rotational slip,Cropland,742
+341,2022,7,14,Asia,China,Rainfall,High,177,351.8,66.1,3633,2.8,10.7,21,Rotational slip,Shrubland,1325
+342,2021,3,2,Europe,Romania,Erosion,Medium,25,49.6,42.8,163,21.65,15.8,10,Rockfall,Bare,776
+343,2020,9,13,Africa,Uganda,Volcanic,High,112,42.6,57.6,1568,38.13,9.9,13,Earthflow,Cropland,1706
+344,2024,4,8,Oceania,Solomon Islands,Rainfall,Medium,25,217.6,52.7,344,4.57,13.6,28,Mudslide,Bare,1660
+345,2024,11,1,Europe,Austria,Volcanic,High,99,51.2,69.5,4122,31.2,9.1,15,Rockfall,Bare,1377
+346,2020,4,20,Asia,India,Earthquake,Medium,1,30.7,59.2,206,22.56,0.9,14,Rotational slip,Grassland,1769
+347,2022,9,16,Oceania,Solomon Islands,Earthquake,Low,5,55.1,35.7,89,26.39,5.5,4,Mudslide,Grassland,2322
+348,2020,2,13,Asia,Indonesia,Volcanic,Low,5,32.0,20.9,42,43.38,13.2,15,Earthflow,Shrubland,915
+349,2024,9,3,Europe,Switzerland,Earthquake,High,138,77.5,45.8,676,2.08,18.5,20,Mudslide,Cropland,3322
+350,2022,11,12,Americas,Brazil,Volcanic,Low,2,22.7,68.8,69,13.87,1.7,17,Earthflow,Forest,2395
+351,2022,7,22,Americas,Colombia,Earthquake,High,196,33.7,67.8,2363,20.92,11.7,28,Mudslide,Shrubland,2797
+352,2021,4,21,Africa,Uganda,Earthquake,Low,4,56.3,26.1,22,15.52,14.3,34,Rockfall,Cropland,1289
+353,2022,2,18,Oceania,New Zealand,Rainfall,High,91,348.6,23.0,741,38.3,17.7,27,Earthflow,Bare,3729
+354,2021,2,5,Europe,Norway,Earthquake,High,166,51.3,48.3,2391,29.86,5.0,2,Mudslide,Forest,4004
+355,2024,8,23,Americas,Mexico,Volcanic,High,109,41.9,22.6,2083,11.39,8.5,1,Mudslide,Cropland,1923
+356,2020,3,15,Americas,Colombia,Erosion,Low,2,70.0,63.8,59,20.3,1.3,48,Earthflow,Bare,3328
+357,2024,10,18,Oceania,Vanuatu,Rainfall,Low,0,224.5,60.5,10,43.9,5.3,35,Earthflow,Forest,3273
+358,2020,4,10,Oceania,Vanuatu,Erosion,Medium,29,27.8,60.5,286,8.41,6.2,4,Rotational slip,Grassland,3897
+359,2024,2,6,Africa,Ethiopia,Earthquake,Medium,14,29.3,16.4,282,29.56,14.4,13,Earthflow,Forest,2148
+360,2021,12,24,Europe,Greece,Rainfall,High,39,306.0,49.9,1198,26.24,8.0,33,Rotational slip,Grassland,3202
+361,2020,3,11,Oceania,Fiji,Earthquake,High,47,18.4,54.2,3937,15.47,14.7,29,Mudslide,Grassland,1063
+362,2020,10,25,Americas,Colombia,Volcanic,High,127,42.3,42.4,547,30.44,10.1,14,Rotational slip,Cropland,3817
+363,2020,10,20,Africa,Kenya,Rainfall,High,150,169.0,49.6,2200,2.54,3.4,42,Mudslide,Forest,1290
+364,2024,10,10,Asia,Japan,Volcanic,High,22,13.2,69.7,1821,33.64,12.4,45,Rotational slip,Shrubland,1553
+365,2024,6,2,Africa,Rwanda,Rainfall,Medium,11,197.9,35.8,84,37.95,16.9,5,Mudslide,Cropland,1202
+366,2022,6,17,Asia,Japan,Erosion,Low,1,57.2,48.7,18,28.61,19.6,34,Debris flow,Cropland,2452
+367,2022,5,17,Africa,Uganda,Volcanic,High,167,47.2,43.6,4577,24.68,4.0,40,Rockfall,Bare,1685
+368,2020,8,21,Asia,India,Rainfall,Low,1,335.9,69.9,57,2.37,7.3,41,Rockfall,Forest,1748
+369,2020,5,10,Europe,Austria,Volcanic,High,39,56.4,33.8,738,41.62,4.3,22,Earthflow,Cropland,391
+370,2021,11,15,Americas,USA,Volcanic,Medium,26,66.1,66.0,78,41.77,6.3,47,Mudslide,Shrubland,4489
+371,2024,11,11,Asia,Nepal,Volcanic,High,48,26.0,16.7,3573,31.36,16.9,37,Rotational slip,Cropland,1635
+372,2022,12,28,Oceania,Papua New Guinea,Volcanic,Low,0,25.4,19.8,35,18.64,16.7,20,Rockfall,Shrubland,2576
+373,2022,1,25,Americas,Brazil,Earthquake,High,123,42.9,58.9,4596,7.79,7.1,31,Rotational slip,Bare,2781
+374,2024,11,5,Americas,Brazil,Earthquake,Low,0,39.5,54.3,71,5.88,6.6,3,Rotational slip,Forest,2830
+375,2020,9,25,Africa,Ethiopia,Volcanic,High,157,61.9,50.1,2219,16.11,4.3,18,Rotational slip,Bare,3713
+376,2021,3,9,Asia,China,Rainfall,High,169,259.1,20.6,4944,17.58,6.7,10,Mudslide,Shrubland,2105
+377,2022,10,11,Americas,Brazil,Erosion,High,43,7.2,64.7,913,5.39,1.5,28,Earthflow,Grassland,3752
+378,2022,6,27,Oceania,Australia,Earthquake,Low,5,65.7,19.3,64,28.43,2.3,45,Earthflow,Forest,3832
+379,2023,8,8,Europe,Greece,Earthquake,High,167,24.4,35.0,2002,35.01,13.5,21,Earthflow,Cropland,347
+380,2020,6,16,Asia,Indonesia,Erosion,High,82,62.6,48.2,1543,25.45,8.4,46,Debris flow,Bare,681
+381,2023,7,19,Europe,Romania,Erosion,High,168,23.3,23.7,4451,19.25,7.1,45,Rotational slip,Cropland,3666
+382,2024,12,8,Oceania,Australia,Earthquake,Low,5,10.8,66.2,78,41.85,2.7,39,Earthflow,Bare,899
+383,2022,7,3,Africa,DR Congo,Rainfall,Low,4,326.8,35.8,68,32.28,1.7,14,Rockfall,Shrubland,101
+384,2021,8,18,Americas,Chile,Volcanic,Medium,20,48.3,25.8,398,43.88,6.3,44,Mudslide,Cropland,2920
+385,2020,10,17,Asia,Philippines,Erosion,High,85,9.7,64.6,935,0.14,11.4,23,Debris flow,Bare,355
+386,2024,7,21,Americas,USA,Volcanic,Low,3,35.5,38.9,32,33.16,9.8,13,Rotational slip,Cropland,3051
+387,2022,11,5,Africa,DR Congo,Earthquake,High,28,53.6,22.9,4487,32.93,19.5,9,Debris flow,Grassland,3506
+388,2024,7,20,Africa,Rwanda,Earthquake,Medium,17,36.8,60.1,246,17.83,4.1,39,Debris flow,Shrubland,4180
+389,2024,5,14,Americas,Chile,Volcanic,High,19,47.6,53.8,1427,29.06,19.3,6,Rockfall,Shrubland,2389
+390,2020,9,20,Africa,Uganda,Rainfall,High,130,281.8,51.5,1139,34.24,11.0,38,Mudslide,Shrubland,532
+391,2020,8,15,Europe,Romania,Erosion,Low,5,29.9,34.4,42,14.53,1.2,39,Mudslide,Shrubland,2233
+392,2023,10,6,Asia,Japan,Rainfall,Low,2,338.8,49.3,41,24.29,3.0,5,Mudslide,Bare,1185
+393,2022,5,1,Oceania,Australia,Rainfall,Low,1,371.2,55.6,89,22.39,16.3,17,Rockfall,Cropland,1581
+394,2022,2,5,Oceania,Papua New Guinea,Earthquake,Medium,25,79.5,57.4,171,33.07,14.7,11,Rockfall,Shrubland,2926
+395,2022,2,2,Asia,Japan,Earthquake,Medium,13,40.7,41.2,435,46.13,5.1,44,Earthflow,Cropland,2251
+396,2023,1,10,Americas,Mexico,Erosion,Medium,22,28.7,44.2,71,4.96,10.9,23,Earthflow,Shrubland,2333
+397,2022,2,9,Europe,Austria,Erosion,Medium,25,55.6,28.3,394,29.48,4.3,22,Rockfall,Bare,186
+398,2020,7,4,Asia,India,Rainfall,Low,3,192.5,54.9,37,9.73,1.0,6,Debris flow,Shrubland,1876
+399,2020,12,4,Oceania,Vanuatu,Rainfall,Low,1,200.3,57.0,87,28.35,19.4,8,Rockfall,Bare,2513
+400,2020,11,15,Africa,Rwanda,Volcanic,Medium,23,72.8,57.3,215,12.94,15.7,18,Debris flow,Cropland,3283
+401,2022,5,6,Europe,Italy,Erosion,High,135,78.5,26.0,3716,9.0,10.1,10,Rotational slip,Cropland,1889
+402,2020,8,23,Oceania,Vanuatu,Volcanic,High,18,10.5,46.4,2552,38.88,0.9,32,Rockfall,Forest,409
+403,2021,12,11,Africa,Nigeria,Erosion,Low,0,43.7,66.7,67,23.96,8.4,47,Debris flow,Shrubland,1950
+404,2023,2,19,Asia,Indonesia,Volcanic,Medium,22,27.7,18.0,381,4.62,10.9,22,Debris flow,Cropland,2475
+405,2024,1,13,Americas,Colombia,Earthquake,Medium,23,34.3,20.9,402,18.03,2.2,41,Earthflow,Grassland,1246
+406,2020,12,19,Asia,Nepal,Earthquake,Medium,13,9.7,44.7,207,25.03,19.3,29,Debris flow,Forest,2879
+407,2020,7,4,Asia,China,Earthquake,Low,5,44.2,66.7,73,7.53,11.8,5,Debris flow,Grassland,4105
+408,2024,1,8,Asia,Indonesia,Earthquake,High,54,52.4,64.8,1297,22.86,3.8,38,Debris flow,Forest,1035
+409,2024,4,3,Africa,Uganda,Earthquake,Medium,11,65.9,69.0,397,20.16,2.9,44,Rotational slip,Shrubland,1225
+410,2020,10,6,Europe,Norway,Volcanic,High,40,25.5,56.7,1876,34.85,11.3,29,Rockfall,Shrubland,433
+411,2024,7,25,Americas,Brazil,Earthquake,High,134,11.1,15.4,1230,35.37,12.1,19,Earthflow,Cropland,1139
+412,2022,9,15,Americas,Colombia,Erosion,High,54,50.8,17.1,1974,35.89,12.4,6,Mudslide,Bare,3530
+413,2021,4,4,Asia,Philippines,Rainfall,Low,2,356.1,69.3,69,11.04,15.5,43,Rockfall,Bare,534
+414,2021,11,28,Americas,Brazil,Erosion,Medium,6,17.0,65.7,77,32.28,6.1,28,Mudslide,Bare,3812
+415,2020,9,6,Asia,India,Earthquake,High,134,43.6,18.9,2427,36.1,12.1,21,Earthflow,Grassland,2768
+416,2022,4,4,Americas,Brazil,Earthquake,Low,3,70.2,35.7,33,3.77,11.9,4,Earthflow,Grassland,1870
+417,2021,7,12,Oceania,Fiji,Earthquake,Medium,24,19.6,34.7,188,10.19,3.0,45,Rotational slip,Forest,2398
+418,2023,8,14,Americas,Brazil,Earthquake,Medium,8,71.5,48.2,454,39.75,19.1,11,Rotational slip,Shrubland,1981
+419,2024,8,28,Asia,Indonesia,Earthquake,Low,3,67.8,30.4,98,21.46,17.5,16,Mudslide,Cropland,1921
+420,2024,1,14,Oceania,New Zealand,Rainfall,High,130,314.7,42.7,3987,26.6,9.8,45,Debris flow,Cropland,4157
+421,2024,1,23,Americas,Brazil,Erosion,High,43,31.9,28.1,1243,0.89,13.5,11,Earthflow,Shrubland,299
+422,2021,12,13,Africa,Kenya,Earthquake,Medium,21,39.8,49.8,490,31.4,8.0,45,Mudslide,Shrubland,367
+423,2022,12,20,Europe,Switzerland,Earthquake,Low,0,51.5,33.5,12,25.79,18.2,24,Debris flow,Forest,3237
+424,2024,1,12,Europe,Switzerland,Volcanic,High,175,46.9,18.7,2177,7.01,7.0,35,Debris flow,Cropland,1818
+425,2022,5,17,Americas,Peru,Erosion,Medium,2,9.8,34.0,298,25.12,16.7,31,Rotational slip,Shrubland,2494
+426,2022,11,23,Africa,Uganda,Rainfall,High,127,107.9,36.5,1964,14.49,19.2,7,Rockfall,Bare,1017
+427,2021,4,17,Americas,USA,Rainfall,Medium,14,390.3,44.8,117,23.75,8.7,48,Debris flow,Bare,1648
+428,2021,9,21,Asia,India,Volcanic,Medium,19,30.7,50.5,217,24.36,13.5,34,Rotational slip,Cropland,3851
+429,2021,5,6,Europe,Romania,Volcanic,High,133,32.9,30.8,887,7.5,6.0,11,Rotational slip,Grassland,4485
+430,2021,12,23,Europe,Norway,Earthquake,High,70,13.8,69.7,1536,22.1,7.7,14,Rotational slip,Forest,2696
+431,2022,8,18,Europe,Norway,Earthquake,Low,2,14.1,16.4,68,38.45,19.0,21,Rockfall,Forest,4256
+432,2022,8,10,Europe,Greece,Earthquake,Low,5,73.0,39.3,93,5.7,9.8,3,Rockfall,Shrubland,1057
+433,2023,10,27,Europe,Italy,Earthquake,Medium,12,11.9,18.0,378,9.84,10.8,18,Rockfall,Forest,784
+434,2020,9,13,Oceania,Fiji,Earthquake,Medium,11,50.2,43.1,78,45.43,7.5,10,Earthflow,Bare,3263
+435,2022,6,12,Europe,Italy,Volcanic,Medium,28,47.1,26.9,277,37.1,8.6,29,Mudslide,Grassland,3572
+436,2024,10,3,Africa,DR Congo,Earthquake,High,87,40.6,62.7,3247,3.4,19.2,25,Debris flow,Forest,3454
+437,2021,9,15,Europe,Switzerland,Earthquake,High,57,67.4,30.9,4518,2.21,16.6,38,Mudslide,Cropland,3896
+438,2020,3,9,Americas,Brazil,Volcanic,Low,5,40.4,51.0,41,20.92,10.1,45,Rockfall,Forest,1077
+439,2020,10,24,Europe,Switzerland,Volcanic,Low,3,47.4,62.8,85,34.33,19.5,8,Mudslide,Shrubland,243
+440,2024,1,5,Europe,Norway,Volcanic,Medium,29,57.0,34.7,77,13.71,8.7,23,Debris flow,Bare,2489
+441,2020,9,7,Oceania,Vanuatu,Earthquake,High,163,61.4,44.9,3090,41.36,13.9,20,Mudslide,Bare,885
+442,2022,3,1,Oceania,Solomon Islands,Earthquake,Low,2,33.0,41.7,48,46.05,3.7,14,Rockfall,Shrubland,1911
+443,2024,12,27,Americas,Mexico,Rainfall,Medium,15,373.1,21.4,117,46.18,9.9,20,Mudslide,Grassland,3720
+444,2022,3,23,Oceania,Solomon Islands,Volcanic,High,200,66.1,27.2,1666,34.43,6.5,14,Rockfall,Forest,3580
+445,2020,8,25,Asia,India,Erosion,High,60,13.1,58.6,4706,29.7,9.6,17,Debris flow,Forest,2571
+446,2020,10,7,Asia,India,Earthquake,High,181,31.4,20.0,2772,47.44,7.3,11,Rotational slip,Shrubland,2081
+447,2020,2,27,Oceania,Solomon Islands,Rainfall,Low,1,309.1,68.0,26,45.09,11.0,47,Debris flow,Grassland,4230
+448,2024,3,15,Africa,Nigeria,Rainfall,High,100,394.0,38.3,4712,11.45,2.7,21,Debris flow,Cropland,1003
+449,2023,6,23,Oceania,New Zealand,Volcanic,Low,5,8.0,33.0,19,19.3,9.4,48,Mudslide,Cropland,1950
+450,2022,7,7,Oceania,Fiji,Rainfall,Medium,22,197.6,15.7,395,24.63,2.6,29,Rotational slip,Forest,1076
+451,2023,12,19,Americas,USA,Rainfall,Low,1,100.7,68.6,48,10.09,17.0,26,Debris flow,Grassland,3579
+452,2024,10,9,Africa,Nigeria,Erosion,Medium,16,55.0,67.3,298,25.62,3.4,30,Debris flow,Forest,2153
+453,2021,11,5,Africa,Kenya,Rainfall,High,198,96.9,18.8,719,48.61,8.0,44,Mudslide,Grassland,2580
+454,2020,2,22,Oceania,Solomon Islands,Erosion,Medium,7,27.0,42.4,308,13.16,7.2,35,Rotational slip,Forest,358
+455,2023,8,11,Africa,Ethiopia,Erosion,Medium,15,7.7,24.7,387,43.03,6.4,46,Rockfall,Cropland,3628
+456,2023,8,25,Americas,Peru,Rainfall,Low,5,237.0,45.5,74,28.65,9.8,11,Rotational slip,Forest,3306
+457,2024,7,20,Europe,Switzerland,Volcanic,Medium,11,9.6,47.5,115,41.86,7.3,48,Rotational slip,Forest,2895
+458,2023,6,12,Africa,Ethiopia,Erosion,Medium,2,54.6,28.6,381,15.67,2.2,45,Debris flow,Bare,1037
+459,2020,9,11,Europe,Norway,Rainfall,Medium,22,356.3,46.2,265,13.4,14.1,38,Debris flow,Bare,3194
+460,2022,10,4,Oceania,Fiji,Erosion,High,186,55.6,33.5,4618,40.59,13.5,11,Rotational slip,Bare,3076
+461,2023,11,28,Africa,DR Congo,Rainfall,Low,1,172.0,17.6,78,20.16,4.9,48,Debris flow,Shrubland,876
+462,2022,2,19,Oceania,Australia,Erosion,Medium,7,31.0,19.2,471,15.16,16.2,28,Rotational slip,Bare,1739
+463,2022,10,17,Africa,Kenya,Erosion,Low,4,18.5,16.0,95,25.86,4.1,32,Rockfall,Cropland,2294
+464,2023,10,24,Oceania,Solomon Islands,Rainfall,Low,1,196.6,23.1,24,37.35,15.4,28,Earthflow,Bare,627
+465,2022,5,21,Americas,USA,Earthquake,Medium,22,50.1,37.3,108,7.58,1.0,20,Earthflow,Cropland,3672
+466,2020,4,6,Africa,Rwanda,Volcanic,High,17,24.4,59.2,1941,32.25,1.3,47,Earthflow,Forest,553
+467,2024,5,28,Asia,China,Rainfall,Medium,29,196.3,51.2,96,19.91,16.9,9,Rockfall,Forest,4198
+468,2024,9,9,Asia,Philippines,Erosion,High,70,50.0,57.5,3067,16.53,11.9,25,Rockfall,Cropland,1885
+469,2021,4,9,Americas,Brazil,Erosion,Medium,9,69.7,18.1,323,18.8,19.0,21,Rotational slip,Cropland,3990
+470,2021,6,16,Americas,Peru,Volcanic,Medium,1,53.4,64.8,67,42.09,13.4,4,Rockfall,Bare,3251
+471,2022,11,4,Europe,Greece,Earthquake,Medium,13,5.6,67.8,180,15.11,18.8,16,Mudslide,Grassland,1412
+472,2022,11,14,Africa,Rwanda,Rainfall,Medium,28,105.6,57.9,301,23.61,8.6,22,Earthflow,Forest,1413
+473,2020,6,14,Europe,Romania,Volcanic,Medium,23,7.1,17.9,378,9.27,9.1,42,Rockfall,Forest,3382
+474,2022,6,19,Americas,Chile,Rainfall,High,50,159.9,54.2,1565,42.36,13.9,21,Earthflow,Cropland,1193
+475,2024,6,26,Europe,Norway,Volcanic,High,31,36.1,25.0,3591,47.24,17.7,15,Debris flow,Forest,1973
+476,2021,5,23,Asia,Indonesia,Earthquake,High,112,51.4,48.0,1722,4.54,7.7,37,Debris flow,Forest,4407
+477,2023,2,8,Africa,Kenya,Earthquake,High,78,26.6,42.2,1566,21.62,4.5,14,Mudslide,Grassland,3526
+478,2021,1,10,Americas,USA,Volcanic,High,168,38.8,28.7,4253,4.38,9.6,21,Earthflow,Grassland,3241
+479,2024,5,3,Africa,Rwanda,Rainfall,Low,0,96.7,66.2,65,45.42,19.9,43,Rotational slip,Forest,143
+480,2024,7,10,Europe,Romania,Erosion,Low,2,14.9,64.1,10,29.07,5.6,33,Earthflow,Bare,3934
+481,2022,12,17,Americas,Brazil,Erosion,High,76,13.8,17.4,1547,25.01,19.5,18,Mudslide,Cropland,2417
+482,2022,9,11,Europe,Romania,Erosion,High,90,60.3,42.0,1739,27.83,18.5,41,Earthflow,Forest,1647
+483,2021,3,2,Americas,Brazil,Erosion,Medium,6,57.9,39.0,303,2.14,7.5,46,Rotational slip,Cropland,3849
+484,2021,2,12,Africa,Ethiopia,Rainfall,High,82,137.8,24.3,4667,41.15,11.5,43,Rotational slip,Grassland,133
+485,2021,7,3,Oceania,Solomon Islands,Earthquake,Medium,22,12.1,33.1,195,34.1,13.8,26,Mudslide,Shrubland,968
+486,2020,2,15,Europe,Norway,Erosion,Medium,21,76.6,47.7,52,16.54,1.4,40,Earthflow,Bare,1159
+487,2022,6,26,Americas,Brazil,Rainfall,Low,0,255.1,48.1,16,20.0,4.0,26,Debris flow,Forest,1805
+488,2023,5,21,Americas,USA,Earthquake,High,86,41.8,38.8,3040,45.2,12.3,23,Debris flow,Bare,4299
+489,2023,7,16,Americas,USA,Volcanic,Low,4,36.7,56.6,52,30.73,9.0,28,Debris flow,Forest,4305
+490,2021,11,22,Europe,Switzerland,Earthquake,Medium,17,52.2,43.9,198,23.46,2.0,31,Mudslide,Grassland,1146
+491,2024,7,10,Europe,Norway,Rainfall,Low,0,373.5,43.2,70,21.3,2.3,43,Rotational slip,Bare,3011
+492,2020,9,1,Europe,Romania,Rainfall,Low,5,228.1,58.2,55,2.36,8.6,46,Mudslide,Bare,3827
+493,2022,6,28,Africa,Uganda,Earthquake,High,57,10.9,69.0,2624,43.59,2.6,35,Debris flow,Forest,3335
+494,2021,11,16,Asia,India,Erosion,Low,3,70.2,68.1,82,36.32,6.4,40,Mudslide,Cropland,2579
+495,2021,1,7,Asia,Nepal,Rainfall,High,188,390.6,62.2,2214,24.11,3.3,16,Earthflow,Shrubland,1663
+496,2023,3,16,Asia,China,Erosion,High,39,17.5,23.4,4147,48.2,9.7,29,Rotational slip,Grassland,1749
+497,2023,1,11,Europe,Romania,Rainfall,High,171,351.2,38.7,3905,42.45,14.9,39,Rotational slip,Bare,403
+498,2023,9,19,Africa,Kenya,Erosion,High,192,9.6,16.0,3087,27.71,5.7,42,Earthflow,Cropland,1057
+499,2022,8,23,Africa,Uganda,Erosion,High,51,26.6,25.6,3316,21.96,10.4,38,Mudslide,Shrubland,3937
+500,2023,7,27,Americas,Peru,Volcanic,Medium,26,77.8,23.9,156,14.19,15.1,43,Earthflow,Grassland,1519
